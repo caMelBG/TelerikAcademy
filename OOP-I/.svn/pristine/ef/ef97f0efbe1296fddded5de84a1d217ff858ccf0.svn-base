@@ -1,0 +1,645 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FastAndFurious.ConsoleApplication.Common.Constants.GlobalConstants" Collapsed="true">
+    <Position X="72" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEASAAIASUAACACAIANABAAABAAAAgBAAAAAAAAxgAQ=</HashCode>
+      <FileName>Common\Constants\GlobalConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Common.Exceptions.TunningDuplicationException" Collapsed="true">
+    <Position X="72" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Exceptions\TunningDuplicationException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Common.Extensions.IEnumerableExtensions" Collapsed="true">
+    <Position X="73.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Common\Extensions\IEnumerableExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Common.Utils.DataGenerator" Collapsed="true">
+    <Position X="68.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Utils\DataGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Common.Utils.MetricUnitsConverter" Collapsed="true">
+    <Position X="68.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAQBQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Utils\MetricUnitsConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Common.Utils.TypeCaster" Collapsed="true">
+    <Position X="73.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAEACAAAAQAAAQAAAEAAAA=</HashCode>
+      <FileName>Common\Utils\TypeCaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Engine.Engine" Collapsed="true">
+    <Position X="70.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BogAAAQgACAABIAAABAAAgAAAAgAAAAAAAAAAARBAAA=</HashCode>
+      <FileName>Engine\Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Common.VehiclePart" Collapsed="true">
+    <Position X="34.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAAAAAAAAAIAAAACAAAAAAAAAEAAAAAgA=</HashCode>
+      <FileName>Models\Common\VehiclePart.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Common.TunningPart" Collapsed="true">
+    <Position X="42.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Models\Tunnings\Abstract\TunningPart.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Drivers.Abstract.Driver" Collapsed="true">
+    <Position X="6" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAGAAAAAAAAgACAAAAAAAyAAAAAAAAAAgAAAAAAAgA=</HashCode>
+      <FileName>Models\Drivers\Abstract\Driver.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Drivers.DominicRendeto" Collapsed="true">
+    <Position X="11.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Drivers\DominicRendeto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Drivers.Jessi" Collapsed="true">
+    <Position X="0.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Drivers\Jessi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Drivers.LetiSpaghetti" Collapsed="true">
+    <Position X="2.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Drivers\LetiSpaghetti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Drivers.Mia" Collapsed="true">
+    <Position X="5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Models\Drivers\Mia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Drivers.VinBenzin" Collapsed="true">
+    <Position X="7.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Drivers\VinBenzin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Drivers.Vince" Collapsed="true">
+    <Position X="9.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Drivers\Vince.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Motors.Abstract.Motor" Collapsed="true">
+    <Position X="40.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgIAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Motors\Abstract\Motor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Motors.CentaurPulseMotor" Collapsed="true">
+    <Position X="39" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAABAAABAAAAAAAAAAAAAAAAAAgAAIAAA=</HashCode>
+      <FileName>Models\Motors\CentaurPulseMotor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Motors.HellcatMotor" Collapsed="true">
+    <Position X="41.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAhAAAIAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Motors\HellcatMotor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Motors.IronHorseMotor" Collapsed="true">
+    <Position X="43.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEQAAAAAAAAACAAAAAAAAAAAAAQAgAAAAAAAAAA=</HashCode>
+      <FileName>Models\Motors\IronHorseMotor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Motors.ShockblazePulsejetMotor" Collapsed="true">
+    <Position X="45.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAECAACAAAAAAAAAQAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Motors\ShockblazePulsejetMotor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Motors.StingrayMotor" Collapsed="true">
+    <Position X="34.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAABAAABAAAAAAQAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Motors\StingrayMotor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Motors.TyphoonPulseMotor" Collapsed="true">
+    <Position X="36.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAIBAAAEAIA=</HashCode>
+      <FileName>Models\Motors\TyphoonPulseEngine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.MotorVehicles.Abstract.MotorVehicle" Collapsed="true">
+    <Position X="9.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAUAAAAAAAAAAACAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Models\MotorVehicles\Abstract\MotorVehicle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.MotorVehicles.AcuraIntegraTypeR" Collapsed="true">
+    <Position X="3" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAQA=</HashCode>
+      <FileName>Models\MotorVehicles\AcuraIntegraTypeR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.MotorVehicles.MitsubishiEclipse" Collapsed="true">
+    <Position X="5.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAgAAAAAiAAAAAAAAA=</HashCode>
+      <FileName>Models\MotorVehicles\MitsubishiEclipse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.MotorVehicles.MitsubishiLancerEvolution" Collapsed="true">
+    <Position X="7.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAgAAAAAAAAAAAAAAAAABAAAAAAAEAAA=</HashCode>
+      <FileName>Models\MotorVehicles\MitsubishiLancerEvolution.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.MotorVehicles.Nissan350Z" Collapsed="true">
+    <Position X="9.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAQ=</HashCode>
+      <FileName>Models\MotorVehicles\Nissan350Z.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.MotorVehicles.NissanGTR" Collapsed="true">
+    <Position X="12" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAQAAAAAAAAAAAEAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Models\MotorVehicles\NissanGTR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.MotorVehicles.NissanSkylineR34" Collapsed="true">
+    <Position X="14.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Models\MotorVehicles\NissanSkylineR34.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.MotorVehicles.SubaruImprezaWRX" Collapsed="true">
+    <Position X="16.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAgAAAAAABAAAAAAAAAgAA=</HashCode>
+      <FileName>Models\MotorVehicles\SubaruImprezaWRX.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tracks.Abstract.RaceTrack" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUiAAABACAgAAAAECAIAAAAAAgAIAAQAiAAAAAEAAA=</HashCode>
+      <FileName>Models\Tracks\Abstract\RaceTrack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tracks.IndianapolisRaceTrack" Collapsed="true">
+    <Position X="13.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABACAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Tracks\IndianapolisRaceTrack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tracks.MonacoRaceTrack" Collapsed="true">
+    <Position X="15.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAMAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\Tracks\MonacoRaceTrack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tracks.StormblazeRaceTrack" Collapsed="true">
+    <Position X="17.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAIAAAAAAAIA=</HashCode>
+      <FileName>Models\Tracks\StormblazeRaceTrack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tracks.TokioUndergroundRaceTrack" Collapsed="true">
+    <Position X="20" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAQAAAAAAAAAAAAAAAAgAAIAA=</HashCode>
+      <FileName>Models\Tracks\TokioUndergroundRaceTrack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.EngineControlUnits.Abstract.EngineControlUnit" Collapsed="true">
+    <Position X="50.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Tunnings\EngineControlUnits\Abstract\EngineControlUnit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.EngineControlUnits.APREngineControlUnit" Collapsed="true">
+    <Position X="48" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Models\Tunnings\EngineControlUnits\APREngineControlUnit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.EngineControlUnits.DinanEngineControlUnit" Collapsed="true">
+    <Position X="50.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAIAAAAAAAQACAA=</HashCode>
+      <FileName>Models\Tunnings\EngineControlUnits\DinanEngineControlUnit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.EngineControlUnits.SCTPerformanceEngineControlUnit" Collapsed="true">
+    <Position X="52.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQIAAAAAAAAIEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Tunnings\EngineControlUnits\SCTPerformanceEngineControlUnit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.ExhaustSystems.Abstract.Exhaust" Collapsed="true">
+    <Position X="63.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Tunnings\ExhaustSystems\Abstract\Exhaust.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.ExhaustSystems.BorlaExhaust" Collapsed="true">
+    <Position X="61.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAgAAACAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Models\Tunnings\ExhaustSystems\BorlaExhaust.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.ExhaustSystems.MagnaflowExhaust" Collapsed="true">
+    <Position X="63.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAQAEAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Tunnings\ExhaustSystems\MagnaflowExhaust.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.ExhaustSystems.RemusExhaust" Collapsed="true">
+    <Position X="66" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAABABAAAAAAAAgAA=</HashCode>
+      <FileName>Models\Tunnings\ExhaustSystems\RemusExhaust.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.Intercoolers.Abstract.Intercooler" Collapsed="true">
+    <Position X="26.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Models\Tunnings\Intercoolers\Abstract\Intercooler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.Intercoolers.EvolutionXPerformanceIntercooler" Collapsed="true">
+    <Position X="25.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAgAABAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Models\Tunnings\Intercoolers\EvolutionXPerformanceIntercooler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.Intercoolers.ViperGenieIntercooler" Collapsed="true">
+    <Position X="27.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAQAAAAAAAAAACAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Tunnings\Intercoolers\ViperGenieIntercooler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.Tires.Abstract.TiresSet" Collapsed="true">
+    <Position X="57" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Tunnings\Tires\Abstract\TireSet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.Tires.FalkenAzenisTiresSet" Collapsed="true">
+    <Position X="54.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAACSAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Tunnings\Tires\FalkenAzenisTiresSet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.Tires.MichelinPilotTiresSet" Collapsed="true">
+    <Position X="57" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAACAAAAAAAAAAgAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Tunnings\Tires\MichelinPilotTiresSet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.Tires.YokohamaAdvanTiresSet" Collapsed="true">
+    <Position X="59.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAACAgAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Models\Tunnings\Tires\YokohamaAdvanTiresSet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.Transmissions.Abstract.Transmission" Collapsed="true">
+    <Position X="21" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Tunnings\Transmissions\Abstract\Transmission.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.Transmissions.BMShortShifter" Collapsed="true">
+    <Position X="18.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAACAAAAAAAAAAAAAAAIAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Tunnings\Transmissions\BMShortShifter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.Transmissions.HurstCompetitionManualShifter" Collapsed="true">
+    <Position X="21" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\Tunnings\Transmissions\HurstCompetitionManualShifter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.Transmissions.TWMPerformanceTransmission" Collapsed="true">
+    <Position X="23.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAGAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Models\Tunnings\Transmissions\TWMPerformanceTransmission.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.Turbochargers.Abstract.Turbocharger" Collapsed="true">
+    <Position X="31.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Tunnings\Turbochargers\Abstract\Turbocharger.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.Turbochargers.VortexR35SequentialTurbocharger" Collapsed="true">
+    <Position X="30" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAACAAAAAAAAAAAAAgAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Models\Tunnings\Turbochargers\VortexR35SequentialTurbocharger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Models.Tunnings.Turbochargers.ZX8ParallelTwinTurbocharger" Collapsed="true">
+    <Position X="32.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAEAAAAAAAAAAAAAAAAAAAAAAIAAAAAEAA=</HashCode>
+      <FileName>Models\Tunnings\Turbochargers\ZX8ParallelTwinTurbocharger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastAndFurious.ConsoleApplication.Startup" Collapsed="true">
+    <Position X="70.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Startup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="FastAndFurious.ConsoleApplication.Contracts.IAccelerateable" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Contracts\IAcceleratable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FastAndFurious.ConsoleApplication.Contracts.IDriver" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEAAAAAAAAgACAAAAAAAwAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IDriver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FastAndFurious.ConsoleApplication.Contracts.IEngineControlUnit" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IEngineControlUnit.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FastAndFurious.ConsoleApplication.Contracts.IExhaust" Collapsed="true">
+    <Position X="9.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IExhaust.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FastAndFurious.ConsoleApplication.Contracts.IIdentifiable" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IIdentifiable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FastAndFurious.ConsoleApplication.Contracts.IIntercooler" Collapsed="true">
+    <Position X="9.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Contracts\IIntercooler.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FastAndFurious.ConsoleApplication.Contracts.IMotor" Collapsed="true">
+    <Position X="6.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgIAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IMotor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FastAndFurious.ConsoleApplication.Contracts.IMotorVehicle" Collapsed="true">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAQAAAAAAAAAAACAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Contracts\IMotorVehicle.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FastAndFurious.ConsoleApplication.Contracts.IRaceTrack" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAABACAAAAAAEAAIAAAAAAgAAAAAAiAAAAAEAAA=</HashCode>
+      <FileName>Contracts\IRaceTrack.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FastAndFurious.ConsoleApplication.Contracts.ITireSet" Collapsed="true">
+    <Position X="12.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\ITireSet.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FastAndFurious.ConsoleApplication.Contracts.ITopSpeed" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\ITopSpeed.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FastAndFurious.ConsoleApplication.Contracts.ITransmission" Collapsed="true">
+    <Position X="6.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\ITransmission.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FastAndFurious.ConsoleApplication.Contracts.ITunningPart" Collapsed="true">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Contracts\ITunningPart.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FastAndFurious.ConsoleApplication.Contracts.ITurbocharger" Collapsed="true">
+    <Position X="12.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\ITurbocharger.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FastAndFurious.ConsoleApplication.Contracts.IValuable" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IValuable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FastAndFurious.ConsoleApplication.Contracts.IVehiclePart" Collapsed="true">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IVehiclePart.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FastAndFurious.ConsoleApplication.Contracts.IWeightable" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IWeightable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="FastAndFurious.ConsoleApplication.Common.Enums.DriverTypes" Collapsed="true">
+    <Position X="70.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgQAAAAAAAAAAAEAAAAAAggAAIAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Common\Enums\DriverTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FastAndFurious.ConsoleApplication.Common.Enums.EngineControlUnitType" Collapsed="true">
+    <Position X="72" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAABAAAAEAAAgAAAA=</HashCode>
+      <FileName>Common\Enums\EngineControlUnitType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FastAndFurious.ConsoleApplication.Common.Enums.ExhaustType" Collapsed="true">
+    <Position X="73.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQACAAAAAAAAAAgAACA=</HashCode>
+      <FileName>Common\Enums\ExhaustType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FastAndFurious.ConsoleApplication.Common.Enums.GenderType" Collapsed="true">
+    <Position X="68.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAAAA=</HashCode>
+      <FileName>Common\Enums\GenderType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FastAndFurious.ConsoleApplication.Common.Enums.IntercoolerType" Collapsed="true">
+    <Position X="70.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhAACA=</HashCode>
+      <FileName>Common\Enums\IntercoolerType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FastAndFurious.ConsoleApplication.Common.Enums.MotorType" Collapsed="true">
+    <Position X="72" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAABAABAAAAABAAAAAAAIAQABAEAAAgAAAA=</HashCode>
+      <FileName>Common\Enums\MotorType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FastAndFurious.ConsoleApplication.Common.Enums.CylinderType" Collapsed="true">
+    <Position X="68.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAgABAA=</HashCode>
+      <FileName>Common\Enums\NumberOfCylindersType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FastAndFurious.ConsoleApplication.Common.Enums.TireType" Collapsed="true">
+    <Position X="73.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAEAAAAAEAAAAACAQAAgAAAAACAAAAAAAgAAAA=</HashCode>
+      <FileName>Common\Enums\TireType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FastAndFurious.ConsoleApplication.Common.Enums.TransmissionType" Collapsed="true">
+    <Position X="68.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAEAAAAAIAAAgAAAA=</HashCode>
+      <FileName>Common\Enums\TransmissionType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FastAndFurious.ConsoleApplication.Common.Enums.TunningGradeType" Collapsed="true">
+    <Position X="70.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEACAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAgAAAA=</HashCode>
+      <FileName>Common\Enums\TunningPartGradeType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FastAndFurious.ConsoleApplication.Common.Enums.TurbochargerType" Collapsed="true">
+    <Position X="72" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAACAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Common\Enums\TurbochargerType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FastAndFurious.ConsoleApplication.Common.Enums.VehicleTypes" Collapsed="true">
+    <Position X="73.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAABAAAAAAAAAAAACACAAAAAAAAAAAgAoAQ=</HashCode>
+      <FileName>Common\Enums\VehicleTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

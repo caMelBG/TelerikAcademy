@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\BiggestTableRow\bin\Debug\BiggestTableRow.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\BiggestTableRow\bin\Debug\BiggestTableRow.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\BiggestTableRow\bin\Debug\BiggestTableRow.pdb
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\BiggestTableRow\obj\Debug\BiggestTableRow.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\BiggestTableRow\obj\Debug\BiggestTableRow.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\BiggestTableRow\obj\Debug\BiggestTableRow.pdb

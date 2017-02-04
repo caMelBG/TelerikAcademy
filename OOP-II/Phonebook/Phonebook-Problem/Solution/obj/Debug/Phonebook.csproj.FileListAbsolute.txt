@@ -1,0 +1,9 @@
+C:\Users\caMel.caMel-PC\Desktop\OOP II.cs\20. High-Quality-Code-Exam-May-2013-Phonebook\Phonebook-Problem\ConsoleApplication1\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\OOP II.cs\20. High-Quality-Code-Exam-May-2013-Phonebook\Phonebook-Problem\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP II.cs\20. High-Quality-Code-Exam-May-2013-Phonebook\Phonebook-Problem\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP II.cs\20. High-Quality-Code-Exam-May-2013-Phonebook\Phonebook-Problem\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP II.cs\20. High-Quality-Code-Exam-May-2013-Phonebook\Phonebook-Problem\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP II.cs\20. High-Quality-Code-Exam-May-2013-Phonebook\Phonebook-Problem\ConsoleApplication1\bin\Debug\PowerCollections.dll
+C:\Users\caMel.caMel-PC\Desktop\OOP II.cs\20. High-Quality-Code-Exam-May-2013-Phonebook\Phonebook-Problem\ConsoleApplication1\bin\Debug\PowerCollections.xml
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\Phonebook\Phonebook-Problem\Solution\obj\Debug\ConsoleApplication1.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\Phonebook\Phonebook-Problem\Solution\obj\Debug\ConsoleApplication1.pdb

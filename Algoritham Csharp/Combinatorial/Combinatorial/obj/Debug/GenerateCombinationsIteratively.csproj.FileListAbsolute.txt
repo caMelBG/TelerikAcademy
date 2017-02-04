@@ -1,0 +1,12 @@
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Combinatorial\Combinatorial\Combinatorial\bin\Debug\Combinatorial.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Combinatorial\Combinatorial\Combinatorial\bin\Debug\Combinatorial.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Combinatorial\Combinatorial\Combinatorial\bin\Debug\Combinatorial.pdb
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Combinatorial\Combinatorial\Combinatorial\obj\Debug\GenerateCombinationsIteratively.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Combinatorial\Combinatorial\Combinatorial\obj\Debug\Combinatorial.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Combinatorial\Combinatorial\Combinatorial\obj\Debug\Combinatorial.pdb
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Combinatorial\Combinatorial\bin\Debug\Combinatorial.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Combinatorial\Combinatorial\obj\Debug\Combinatorial.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Combinatorial\Combinatorial\obj\Debug\Combinatorial.pdb
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Combinatorial\Combinatorial\bin\Debug\Combinatorial.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Combinatorial\Combinatorial\bin\Debug\Combinatorial.pdb
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Combinatorial\Combinatorial\obj\Debug\GenerateCombinationsIteratively.csprojResolveAssemblyReference.cache

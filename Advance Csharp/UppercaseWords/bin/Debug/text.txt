@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Uppercase Words</title>
+    <meta charset="utf-8" />
+</head>
+
+<body>
+<form method="get" action="UppercaseWords.php">
+    Price List: <textarea name="text" rows="15" cols="120">Companies like
+    H2H, ORACLE and IBM target their platforms for cloud-based environment.
+    IList<T> implements IEnumerable<T>. GoPHP is a PHP library.
+END

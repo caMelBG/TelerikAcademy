@@ -1,0 +1,55 @@
+﻿using System;
+using System.Collections.Generic;
+using FastAndFurious.ConsoleApplication.Common.Utils;
+using FastAndFurious.ConsoleApplication.Contracts;
+using FastAndFurious.ConsoleApplication.Models.Common;
+using FastAndFurious.ConsoleApplication.Common.Exceptions;
+
+namespace FastAndFurious.ConsoleApplication.Models.MotorVehicles.Abstract
+{
+    public abstract class MotorVehicle : VehiclePart, IMotorVehicle, IIdentifiable, IWeightable, IValuable
+    {
+        private List<ITunningPart> CurrentTunningParts;
+
+        public MotorVehicle(
+            decimal price,
+            int weight,
+            int acceleration,
+            int topSpeed)
+            : base(price, weight, acceleration, topSpeed)
+        {
+            CurrentTunningParts = new List<ITunningPart>();
+        }
+
+        public IEnumerable<ITunningPart> TunningParts { get { return this.CurrentTunningParts; } }
+
+        public void AddTunning(ITunningPart part)
+        {
+            foreach (var item in this.CurrentTunningParts)
+            {
+                if (item.GetType() == part.GetType())
+                {
+                    throw new TunningDuplicationException("Current vehicle already have type of this part!");
+                }
+            }
+
+            this.CurrentTunningParts.Add(part);
+        }
+
+        public bool RemoveTunning(ITunningPart part)
+        {
+            if (this.CurrentTunningParts.Contains(part))
+            {
+                this.CurrentTunningParts.Remove(part);
+                return true;
+            }
+
+            return false;
+        }
+        //TODO
+        public TimeSpan Race(int trackLengthInMeters)
+        {
+            return new TimeSpan();
+        }
+    }
+}

@@ -1,0 +1,65 @@
+Company AcademyDivani created
+Company AcademyHladilnici created
+AcademyDivani - 1234567890 - no furnitures
+Table JustMasa created
+Chair KendoStol created
+Chair SitefinityDivan created
+Chair AJAXControlsTaburetka created
+Chair SitefinityShtyrkel created
+AcademyHladilnici - 0987654321 - no furnitures
+Furniture JustMasa added to company AcademyHladilnici
+Furniture SitefinityShtyrkel added to company AcademyHladilnici
+Furniture JustMasa added to company AcademyHladilnici
+Furniture SitefinityDivan added to company AcademyHladilnici
+AcademyHladilnici - 0987654321 - 4 furnitures
+Type: AdjustableChair, Model: SitefinityDivan, Material: leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Chair, Model: SitefinityShtyrkel, Material: leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Table, Model: JustMasa, Material: wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+Type: Table, Model: JustMasa, Material: wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+AcademyDivani - 1234567890 - no furnitures
+Furniture JustMasa added to company AcademyDivani
+Furniture KendoStol added to company AcademyDivani
+Furniture AJAXControlsTaburetka added to company AcademyDivani
+Furniture SitefinityDivan added to company AcademyDivani
+AcademyDivani - 1234567890 - 4 furnitures
+Type: ConvertibleChair, Model: AJAXControlsTaburetka, Material: plastic, Price: 80.00, Height: 1.00, Legs: 3, State: Normal
+Type: Chair, Model: KendoStol, Material: leather, Price: 99.99, Height: 1.20, Legs: 5
+Type: AdjustableChair, Model: SitefinityDivan, Material: leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Table, Model: JustMasa, Material: wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+AcademyHladilnici - 0987654321 - 4 furnitures
+Type: AdjustableChair, Model: SitefinityDivan, Material: leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Chair, Model: SitefinityShtyrkel, Material: leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Table, Model: JustMasa, Material: wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+Type: Table, Model: JustMasa, Material: wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+Furniture JustMasa removed from company AcademyHladilnici
+AcademyHladilnici - 0987654321 - 3 furnitures
+Type: AdjustableChair, Model: SitefinityDivan, Material: leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Chair, Model: SitefinityShtyrkel, Material: leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Table, Model: JustMasa, Material: wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+FurnitureManufacturer.Models.Table
+FurnitureManufacturer.Models.AdjustableChair
+Furniture SitefinityDivan removed from company AcademyDivani
+Furniture SitefinityDivan removed from company AcademyDivani
+AcademyDivani - 1234567890 - 3 furnitures
+Type: ConvertibleChair, Model: AJAXControlsTaburetka, Material: plastic, Price: 80.00, Height: 1.00, Legs: 3, State: Normal
+Type: Chair, Model: KendoStol, Material: leather, Price: 99.99, Height: 1.20, Legs: 5
+Type: Table, Model: JustMasa, Material: wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+Furniture SitefinityDivan not found
+FurnitureManufacturer.Models.ConvertibleChair
+FurnitureManufacturer.Models.Chair
+Company KenovAndSonBiura created
+Chair PeshoBiuro created
+Furniture PeshoBiuro added to company KenovAndSonBiura
+Chair PeshoBiuro adjusted to height 1.11
+FurnitureManufacturer.Models.AdjustableChair
+Chair GoshoFotiol created
+Furniture GoshoFotiol added to company KenovAndSonBiura
+Chair GoshoFotiol converted
+FurnitureManufacturer.Models.ConvertibleChair
+Chair GoshoFotiol converted
+FurnitureManufacturer.Models.ConvertibleChair
+Chair GoshoFotiol converted
+KenovAndSonBiura - 6666666666 - 2 furnitures
+Type: AdjustableChair, Model: PeshoBiuro, Material: plastic, Price: 0.99, Height: 1.11, Legs: 4
+Type: ConvertibleChair, Model: GoshoFotiol, Material: wooden, Price: 1.99, Height: 0.95, Legs: 1, State: Converted
+

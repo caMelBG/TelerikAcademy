@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\Algorithams\bin\Debug\Algorithams.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\Algorithams\bin\Debug\Algorithams.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\Algorithams\bin\Debug\Algorithams.pdb
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\Algorithams\obj\Debug\Sowing.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\Algorithams\obj\Debug\Algorithams.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\Algorithams\obj\Debug\Algorithams.pdb

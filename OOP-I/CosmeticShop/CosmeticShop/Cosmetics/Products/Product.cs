@@ -1,0 +1,81 @@
+﻿using System;
+using Cosmetics.Common;
+using Cosmetics.Contracts;
+
+namespace Cosmetics.Products
+{
+    public abstract class Product : IProduct
+    {
+        private const int MinimumProductNameLength = 3;
+        private const int MinimumBrandNameLength = 2;
+        private const int MaximumProductAndBrandNameLength = 10;
+        private const string ProductName = "Product name";
+        private const string ProductBrand = "Product brand";
+
+        private string name;
+        private string brand;
+        private decimal price;
+        private GenderType gender;
+        
+        public Product(string name, string brand, decimal price, GenderType gender)
+        {
+            this.Name = name;
+            this.Brand = brand;
+            this.Price = price;
+            this.Gender = gender;
+        }
+
+        public string Name
+        {
+            set
+            {
+                if (value.Length >= MinimumProductNameLength &&
+                    value.Length <= MaximumProductAndBrandNameLength)
+                {
+                    this.name = value;
+                }
+
+                else
+                {
+                    throw new ArgumentException(string.Format(GlobalErrorMessages
+                        .InvalidStringLength, ProductName, MinimumProductNameLength, MaximumProductAndBrandNameLength));
+                }
+            }
+            get
+            {
+                return this.name;
+            }
+        }
+
+        public string Brand
+        {
+            set
+            {
+                if (value.Length >= MinimumBrandNameLength &&
+                    value.Length <= MaximumProductAndBrandNameLength)
+                {
+                    this.brand = value;
+                }
+
+                else
+                {
+                    throw new ArgumentException(string.Format(GlobalErrorMessages
+                        .InvalidStringLength, ProductBrand, MinimumBrandNameLength, MaximumProductAndBrandNameLength));
+                }
+            }
+            get
+            {
+                return this.brand;
+            }
+        }
+
+        public decimal Price { get; private set; }
+
+        public GenderType Gender { get; private set; }
+
+        public virtual string Print()
+        {
+            return string.Empty;
+        }
+}
+}

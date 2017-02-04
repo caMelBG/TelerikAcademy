@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\TextGravity\bin\Debug\TextGravity.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\TextGravity\bin\Debug\TextGravity.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\TextGravity\bin\Debug\TextGravity.pdb
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\TextGravity\obj\Debug\TextGravity.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\TextGravity\obj\Debug\TextGravity.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\TextGravity\obj\Debug\TextGravity.pdb

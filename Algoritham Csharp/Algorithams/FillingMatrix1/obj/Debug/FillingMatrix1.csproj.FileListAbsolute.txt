@@ -1,0 +1,5 @@
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\FillingMatrix1\bin\Debug\FillingMatrix1.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\FillingMatrix1\bin\Debug\FillingMatrix1.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\FillingMatrix1\bin\Debug\FillingMatrix1.pdb
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\FillingMatrix1\obj\Debug\FillingMatrix1.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\FillingMatrix1\obj\Debug\FillingMatrix1.pdb

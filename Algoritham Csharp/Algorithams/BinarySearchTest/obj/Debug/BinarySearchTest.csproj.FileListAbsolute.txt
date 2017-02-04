@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\BinarySearchTest\bin\Debug\BinarySearchTest.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\BinarySearchTest\bin\Debug\BinarySearchTest.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\BinarySearchTest\bin\Debug\BinarySearchTest.pdb
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\BinarySearchTest\obj\Debug\BinarySearchTest.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\BinarySearchTest\obj\Debug\BinarySearchTest.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\BinarySearchTest\obj\Debug\BinarySearchTest.pdb

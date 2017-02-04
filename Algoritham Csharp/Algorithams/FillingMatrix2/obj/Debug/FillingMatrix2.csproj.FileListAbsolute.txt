@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\FillingMatrix2\bin\Debug\FillingMatrix2.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\FillingMatrix2\bin\Debug\FillingMatrix2.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\FillingMatrix2\bin\Debug\FillingMatrix2.pdb
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\FillingMatrix2\obj\Debug\FillingMatrix2.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\FillingMatrix2\obj\Debug\FillingMatrix2.pdb
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\FillingMatrix2\obj\Debug\FillingMatrix2.csprojResolveAssemblyReference.cache

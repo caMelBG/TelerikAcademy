@@ -1,0 +1,11 @@
+C:\Users\caMel.caMel-PC\Desktop\2. FastAndFurious\FastAndFurious - Skeleton\FastAndFurious.ConsoleApplication\bin\Debug\FastAndFurious.ConsoleApplication.exe.config
+C:\Users\caMel.caMel-PC\Desktop\OOP I.cs\2. FastAndFurious\FastAndFurious - Skeleton\FastAndFurious.ConsoleApplication\obj\Debug\FastAndFurious.ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\OOP I.cs\2. FastAndFurious\FastAndFurious - Skeleton\FastAndFurious.ConsoleApplication\bin\Debug\FastAndFurious.ConsoleApplication.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP I.cs\2. FastAndFurious\FastAndFurious - Skeleton\FastAndFurious.ConsoleApplication\bin\Debug\FastAndFurious.ConsoleApplication.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP I.cs\2. FastAndFurious\FastAndFurious - Skeleton\FastAndFurious.ConsoleApplication\obj\Debug\FastAndFurious.ConsoleApplication.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP I.cs\2. FastAndFurious\FastAndFurious - Skeleton\FastAndFurious.ConsoleApplication\obj\Debug\FastAndFurious.ConsoleApplication.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\FastAndFurious\FastAndFurious - Skeleton\FastAndFurious.ConsoleApplication\obj\Debug\FastAndFurious.ConsoleApplication.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\FastAndFurious\FastAndFurious - Skeleton\FastAndFurious.ConsoleApplication\obj\Debug\FastAndFurious.ConsoleApplication.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\FastAndFurious\FastAndFurious - Skeleton\FastAndFurious.ConsoleApplication\obj\Debug\FastAndFurious.ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\FastAndFurious\FastAndFurious - Skeleton\FastAndFurious.ConsoleApplication\bin\Debug\FastAndFurious.ConsoleApplication.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\FastAndFurious\FastAndFurious - Skeleton\FastAndFurious.ConsoleApplication\bin\Debug\FastAndFurious.ConsoleApplication.pdb

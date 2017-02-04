@@ -1,0 +1,49 @@
+﻿using System;
+using Dealership.Common.Enums;
+using Dealership.Contracts;
+using Dealership.Common;
+using System.Text;
+
+namespace Dealership.Models
+{
+    public class Truck : Vehicle, ITruck, IVehicle, ICommentable, IPriceable
+    {
+        private int weightCapacity;
+
+        public Truck(string make, string model, decimal price, int weightCapacity) 
+            : base(make, model, price, VehicleType.Truck)
+        {
+            this.WeightCapacity = weightCapacity;
+        }
+
+        public int WeightCapacity
+        {
+            get
+            {
+                return this.weightCapacity;
+            }
+
+            private set
+            {
+                Validator.ValidateIntRange(
+                    value,
+                    Constants.MinCapacity,
+                    Constants.MaxCapacity,
+                    String.Format(
+                        Constants.StringMustBeBetweenMinAndMax,
+                        Constants.MinCapacity,
+                        Constants.MaxCapacity));
+                this.weightCapacity = value;
+            }
+        }
+
+        public override string Print()
+        {
+            StringBuilder truckInfo = new StringBuilder();
+            truckInfo.Append("1. Truck:");
+            truckInfo.AppendLine(base.Print());
+            truckInfo.AppendLine(String.Format("Weight capacity: {0}", this.WeightCapacity));
+            return truckInfo.ToString().Trim();
+        }
+    }
+}

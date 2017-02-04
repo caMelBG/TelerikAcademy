@@ -1,0 +1,11 @@
+C:\Users\caMel.caMel-PC\Desktop\1. Dealership\Dealership-Skeleton\Dealership\obj\Debug\Dealership.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\OOP I.cs\1. Dealership\Dealership-Skeleton\Dealership\obj\Debug\Dealership.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\OOP I.cs\1. Dealership\Dealership-Skeleton\Dealership\bin\Debug\Dealership.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP I.cs\1. Dealership\Dealership-Skeleton\Dealership\bin\Debug\Dealership.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP I.cs\1. Dealership\Dealership-Skeleton\Dealership\obj\Debug\Dealership.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP I.cs\1. Dealership\Dealership-Skeleton\Dealership\obj\Debug\Dealership.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\Dealership\Dealership-Skeleton\Dealership\obj\Debug\Dealership.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\Dealership\Dealership-Skeleton\Dealership\obj\Debug\Dealership.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\Dealership\Dealership-Skeleton\Dealership\bin\Debug\Dealership.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\Dealership\Dealership-Skeleton\Dealership\bin\Debug\Dealership.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\Dealership\Dealership-Skeleton\Dealership\obj\Debug\Dealership.csprojResolveAssemblyReference.cache

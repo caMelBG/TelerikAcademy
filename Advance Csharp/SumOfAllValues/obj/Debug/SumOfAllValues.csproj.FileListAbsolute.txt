@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\SumOfAllValues\bin\Debug\SumOfAllValues.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\SumOfAllValues\bin\Debug\SumOfAllValues.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\SumOfAllValues\bin\Debug\SumOfAllValues.pdb
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\SumOfAllValues\obj\Debug\SumOfAllValues.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\SumOfAllValues\obj\Debug\SumOfAllValues.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\SumOfAllValues\obj\Debug\SumOfAllValues.pdb

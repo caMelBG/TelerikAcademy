@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\ChatLogger\bin\Debug\ChatLogger.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\ChatLogger\bin\Debug\ChatLogger.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\ChatLogger\bin\Debug\ChatLogger.pdb
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\ChatLogger\obj\Debug\ChatLogger.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\ChatLogger\obj\Debug\ChatLogger.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\ChatLogger\obj\Debug\ChatLogger.pdb

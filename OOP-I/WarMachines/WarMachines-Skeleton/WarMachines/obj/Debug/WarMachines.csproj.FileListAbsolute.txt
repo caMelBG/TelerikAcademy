@@ -1,0 +1,12 @@
+C:\Users\caMel.caMel-PC\Desktop\1. War Machines_Условие на задачата\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe.config
+C:\Users\caMel.caMel-PC\Desktop\1. War Machines_Условие на задачата\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe
+C:\Users\caMel.caMel-PC\Desktop\1. War Machines_Условие на задачата\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.pdb
+C:\Users\caMel.caMel-PC\Desktop\1. War Machines_Условие на задачата\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\1. War Machines_Условие на задачата\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.exe
+C:\Users\caMel.caMel-PC\Desktop\1. War Machines_Условие на задачата\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\WarMachines\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\WarMachines\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe.config
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\WarMachines\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\WarMachines\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\WarMachines\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\WarMachines\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.exe

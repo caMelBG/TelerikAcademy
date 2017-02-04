@@ -1,0 +1,14 @@
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\Computers-exam\Niki\bin\Debug\Computers.UI.Console.exe.config
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\Computers-exam\Niki\bin\Debug\Computers.UI.Console.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\Computers-exam\Niki\bin\Debug\Computers.UI.Console.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\Computers-exam\Niki\bin\Debug\System.Collections.Generic.dll
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\Computers-exam\Niki\obj\Debug\Computers.UI.Console.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\Computers-exam\Niki\obj\Debug\Computers.UI.Console.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\Computers-exam\Niki\obj\Debug\Computers.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\Computers\Solution\bin\Debug\Computers.UI.Console.exe.config
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\Computers\Solution\obj\Debug\Computers.UI.Console.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\Computers\Solution\obj\Debug\Computers.UI.Console.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\Computers\Solution\bin\Debug\Computers.UI.Console.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\Computers\Solution\bin\Debug\Computers.UI.Console.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\Computers\Solution\bin\Debug\System.Collections.Generic.dll
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\Computers\Solution\obj\Debug\Computers.csprojResolveAssemblyReference.cache

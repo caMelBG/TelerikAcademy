@@ -1,0 +1,9 @@
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\PathsBetweenCellsInMatrix\bin\Debug\PathsBetweenCellsInMatrix.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\PathsBetweenCellsInMatrix\bin\Debug\PathsBetweenCellsInMatrix.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\PathsBetweenCellsInMatrix\bin\Debug\PathsBetweenCellsInMatrix.pdb
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\PathsBetweenCellsInMatrix\obj\Debug\PathsBetweenCellsInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\PathsBetweenCellsInMatrix\obj\Debug\PathsBetweenCellsInMatrix.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\PathsBetweenCellsInMatrix\obj\Debug\PathsBetweenCellsInMatrix.pdb
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Recursion\PathsBetweenCellsInMatrix\bin\Debug\PathsBetweenCellsInMatrix.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Recursion\PathsBetweenCellsInMatrix\obj\Debug\PathsBetweenCellsInMatrix.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Recursion\PathsBetweenCellsInMatrix\obj\Debug\PathsBetweenCellsInMatrix.pdb

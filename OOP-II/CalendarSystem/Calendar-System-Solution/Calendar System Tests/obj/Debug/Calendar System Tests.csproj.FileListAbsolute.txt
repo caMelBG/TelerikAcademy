@@ -1,0 +1,8 @@
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Solution\Calendar System Tests\bin\Debug\Calendar System Tests.dll
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Solution\Calendar System Tests\bin\Debug\Calendar System Tests.pdb
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Solution\Calendar System Tests\bin\Debug\Calendar System.exe
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Solution\Calendar System Tests\bin\Debug\PowerCollections.dll
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Solution\Calendar System Tests\bin\Debug\Calendar System.pdb
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Solution\Calendar System Tests\obj\Debug\Calendar System Tests.csprojResolveAssemblyReference.cache
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Solution\Calendar System Tests\obj\Debug\Calendar System Tests.dll
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Solution\Calendar System Tests\obj\Debug\Calendar System Tests.pdb

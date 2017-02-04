@@ -1,0 +1,14 @@
+﻿namespace Infestation
+{
+    class Queen : Unit
+    {
+        private const int Health = 30;
+        private const int Power = 1;
+        private const int Aggression = 1;
+
+        public Queen(string id) 
+            : base(id, UnitClassification.Psionic, Health, Power, Aggression)
+        {
+        }
+    }
+}

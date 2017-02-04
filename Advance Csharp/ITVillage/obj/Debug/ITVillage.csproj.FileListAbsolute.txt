@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\ITVillage\bin\Debug\ITVillage.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\ITVillage\bin\Debug\ITVillage.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\ITVillage\bin\Debug\ITVillage.pdb
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\ITVillage\obj\Debug\ITVillage.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\ITVillage\obj\Debug\ITVillage.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\ITVillage\obj\Debug\ITVillage.pdb

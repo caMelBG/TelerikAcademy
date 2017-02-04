@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\ChessQueens\bin\Debug\ChessQueens.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\ChessQueens\bin\Debug\ChessQueens.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\ChessQueens\bin\Debug\ChessQueens.pdb
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\ChessQueens\obj\Debug\ChessQueens.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\ChessQueens\obj\Debug\ChessQueens.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\ChessQueens\obj\Debug\ChessQueens.pdb

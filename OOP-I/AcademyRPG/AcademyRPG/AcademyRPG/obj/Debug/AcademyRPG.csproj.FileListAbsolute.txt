@@ -1,0 +1,14 @@
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.exe
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.pdb
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.csprojResolveAssemblyReference.cache
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.exe
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\AcademyRPG\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\AcademyRPG\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\AcademyRPG\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\AcademyRPG\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\AcademyRPG\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\_AcademyRPG\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\_AcademyRPG\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\_AcademyRPG\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\_AcademyRPG\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.pdb

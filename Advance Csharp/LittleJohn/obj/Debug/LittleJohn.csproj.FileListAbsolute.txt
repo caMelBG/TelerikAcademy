@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\LittleJohn\bin\Debug\LittleJohn.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\LittleJohn\obj\Debug\LittleJohn.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\LittleJohn\bin\Debug\LittleJohn.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\LittleJohn\bin\Debug\LittleJohn.pdb
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\LittleJohn\obj\Debug\LittleJohn.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\LittleJohn\obj\Debug\LittleJohn.pdb

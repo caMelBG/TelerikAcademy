@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\High-Quality-Code-Retake-Exam-October-2015\High-Quality-Code-Retake-Exam-October-2015\booking\booking\bin\Debug\Чепеларе.exe.config
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\High-Quality-Code-Retake-Exam-October-2015\High-Quality-Code-Retake-Exam-October-2015\booking\booking\bin\Debug\Чепеларе.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\High-Quality-Code-Retake-Exam-October-2015\High-Quality-Code-Retake-Exam-October-2015\booking\booking\bin\Debug\Чепеларе.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\High-Quality-Code-Retake-Exam-October-2015\High-Quality-Code-Retake-Exam-October-2015\booking\booking\obj\Debug\Чепеларе.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\High-Quality-Code-Retake-Exam-October-2015\High-Quality-Code-Retake-Exam-October-2015\booking\booking\obj\Debug\Чепеларе.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\High-Quality-Code-Retake-Exam-October-2015\High-Quality-Code-Retake-Exam-October-2015\booking\booking\obj\Debug\Чепеларе.pdb

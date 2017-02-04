@@ -1,0 +1,20 @@
+C:\Users\caMel.caMel-PC\Desktop\OOP II.cs\20. High-Quality-Code-Exam-May-2013-Calendar-System\Calendar-System-Problem\ConsoleApplication1\obj\Debug\CalendarSystem.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\OOP II.cs\20. High-Quality-Code-Exam-May-2013-Calendar-System\Calendar-System-Problem\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP II.cs\20. High-Quality-Code-Exam-May-2013-Calendar-System\Calendar-System-Problem\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\caMel.caMel-PC\Desktop\OOP II.cs\20. High-Quality-Code-Exam-May-2013-Calendar-System\Calendar-System-Problem\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP II.cs\20. High-Quality-Code-Exam-May-2013-Calendar-System\Calendar-System-Problem\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP II.cs\20. High-Quality-Code-Exam-May-2013-Calendar-System\Calendar-System-Problem\ConsoleApplication1\bin\Debug\PowerCollections.dll
+C:\Users\caMel.caMel-PC\Desktop\OOP II.cs\20. High-Quality-Code-Exam-May-2013-Calendar-System\Calendar-System-Problem\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\20. High-Quality-Code-Exam-May-2013-Calendar-System\Calendar-System-Problem\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\20. High-Quality-Code-Exam-May-2013-Calendar-System\Calendar-System-Problem\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\20. High-Quality-Code-Exam-May-2013-Calendar-System\Calendar-System-Problem\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\20. High-Quality-Code-Exam-May-2013-Calendar-System\Calendar-System-Problem\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\20. High-Quality-Code-Exam-May-2013-Calendar-System\Calendar-System-Problem\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\20. High-Quality-Code-Exam-May-2013-Calendar-System\Calendar-System-Problem\ConsoleApplication1\bin\Debug\PowerCollections.dll
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\20. High-Quality-Code-Exam-May-2013-Calendar-System\Calendar-System-Problem\ConsoleApplication1\obj\Debug\CalendarSystem.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\20. High-Quality-Code-Exam-May-2013-Calendar-System\Calendar-System-Problem\Solution\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\20. High-Quality-Code-Exam-May-2013-Calendar-System\Calendar-System-Problem\Solution\obj\Debug\ConsoleApplication1.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\20. High-Quality-Code-Exam-May-2013-Calendar-System\Calendar-System-Problem\Solution\obj\Debug\ConsoleApplication1.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\CalendarSystem\Calendar-System-Problem\Solution\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\CalendarSystem\Calendar-System-Problem\Solution\obj\Debug\ConsoleApplication1.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\CalendarSystem\Calendar-System-Problem\Solution\obj\Debug\ConsoleApplication1.pdb

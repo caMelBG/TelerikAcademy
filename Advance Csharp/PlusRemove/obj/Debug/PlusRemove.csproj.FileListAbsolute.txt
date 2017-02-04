@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\plusRemove\bin\Debug\plusRemove.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\plusRemove\bin\Debug\plusRemove.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\plusRemove\bin\Debug\plusRemove.pdb
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\plusRemove\obj\Debug\plusRemove.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\plusRemove\obj\Debug\plusRemove.pdb
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\plusRemove\obj\Debug\plusRemove.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\caMel.caMel-PC\Desktop\2. Trade and Travel_Условие на задачата\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.exe.config
+C:\Users\caMel.caMel-PC\Desktop\2. Trade and Travel_Условие на задачата\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.exe
+C:\Users\caMel.caMel-PC\Desktop\2. Trade and Travel_Условие на задачата\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.pdb
+C:\Users\caMel.caMel-PC\Desktop\2. Trade and Travel_Условие на задачата\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\2. Trade and Travel_Условие на задачата\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.exe
+C:\Users\caMel.caMel-PC\Desktop\2. Trade and Travel_Условие на задачата\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP I.cs\2. Trade and Travel_Условие на задачата\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP I.cs\2. Trade and Travel_Условие на задачата\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP I.cs\2. Trade and Travel_Условие на задачата\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP I.cs\2. Trade and Travel_Условие на задачата\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\OOP I.cs\2. Trade and Travel_Условие на задачата\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\TradeAndTravel\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\TradeAndTravel\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\TradeAndTravel\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\TradeAndTravel\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-I\TradeAndTravel\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.csprojResolveAssemblyReference.cache

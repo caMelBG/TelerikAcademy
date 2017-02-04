@@ -1,0 +1,34 @@
+﻿using System;
+
+namespace AcademyEcosystem
+{
+    public class Wolf : Animal, ICarnivore
+    {
+        private const int WolfSize = 4;
+
+        public Wolf(string name, Point location) 
+            : base(name, location, WolfSize)
+        {
+            this.IsAlive = true;
+        }
+
+        public int TryEatAnimal(Animal animal)
+        {
+            if (animal == null)
+            {
+                return this.Size;
+            }
+            else if (this.Size >= animal.Size ||
+                animal.State == AnimalState.Sleeping)
+            {
+                return 0;
+            }
+            else if (animal.GetType() is Zombie)
+            {
+                this.Size += 10;
+            }
+
+            return this.Size;
+        }
+    }
+}

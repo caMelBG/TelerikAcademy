@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLoopsToRecursion", "Recursion\NestedLoopsToRecursion.csproj", "{6F489D82-B7C0-43E4-8BD7-44BCF950C1EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationsWithRepetition", "CombinationsWithRepetition\CombinationsWithRepetition.csproj", "{E3268489-834E-4B1A-B7C6-52F31826F70C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathsBetweenCellsInMatrix", "PathsBetweenCellsInMatrix\PathsBetweenCellsInMatrix.csproj", "{1CCFCDBB-61FC-4A06-8D1F-DF9A58DB2799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectedAreasInAMatrix", "ConnectedAreasInAMatrix\ConnectedAreasInAMatrix.csproj", "{CA2A36FA-F13C-49CB-8429-18BEAB13DD64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F489D82-B7C0-43E4-8BD7-44BCF950C1EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F489D82-B7C0-43E4-8BD7-44BCF950C1EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F489D82-B7C0-43E4-8BD7-44BCF950C1EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F489D82-B7C0-43E4-8BD7-44BCF950C1EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3268489-834E-4B1A-B7C6-52F31826F70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3268489-834E-4B1A-B7C6-52F31826F70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3268489-834E-4B1A-B7C6-52F31826F70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3268489-834E-4B1A-B7C6-52F31826F70C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CCFCDBB-61FC-4A06-8D1F-DF9A58DB2799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CCFCDBB-61FC-4A06-8D1F-DF9A58DB2799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CCFCDBB-61FC-4A06-8D1F-DF9A58DB2799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CCFCDBB-61FC-4A06-8D1F-DF9A58DB2799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA2A36FA-F13C-49CB-8429-18BEAB13DD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2A36FA-F13C-49CB-8429-18BEAB13DD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2A36FA-F13C-49CB-8429-18BEAB13DD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2A36FA-F13C-49CB-8429-18BEAB13DD64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

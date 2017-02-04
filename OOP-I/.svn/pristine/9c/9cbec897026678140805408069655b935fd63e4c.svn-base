@@ -1,0 +1,17 @@
+﻿namespace Infestation
+{
+    class Tank : Unit
+    {
+        private const int Health = 25;
+        private const int Power = 20;
+        private const int Aggression = 25;
+
+        public Tank(string id) 
+            : base(id, UnitClassification.Mechanical, 
+                  Tank.Health, 
+                  Tank.Power, 
+                  Tank.Aggression)
+        {
+        }
+    }
+}

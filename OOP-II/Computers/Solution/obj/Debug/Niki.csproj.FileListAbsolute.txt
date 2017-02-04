@@ -1,0 +1,2 @@
+C:\Users\caMel.caMel-PC\Desktop\OOP II.cs\Computers-exam\Niki\bin\Debug\Computers.UI.Console.exe.config
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\Computers-exam\Niki\bin\Debug\Computers.UI.Console.exe.config

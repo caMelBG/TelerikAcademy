@@ -1,0 +1,11 @@
+﻿namespace AcademyEcosystem
+{
+    public class Zombie : Animal
+    {
+        public Zombie(string name, Point location) 
+            : base(name, location, 0)
+        {
+            this.IsAlive = true;
+        }
+    }
+}

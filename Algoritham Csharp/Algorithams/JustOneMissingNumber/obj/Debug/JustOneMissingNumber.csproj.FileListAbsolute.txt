@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\JustOneMissingNumber\bin\Debug\JustOneMissingNumber.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\JustOneMissingNumber\bin\Debug\JustOneMissingNumber.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\JustOneMissingNumber\bin\Debug\JustOneMissingNumber.pdb
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\JustOneMissingNumber\obj\Debug\JustOneMissingNumber.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\JustOneMissingNumber\obj\Debug\JustOneMissingNumber.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\JustOneMissingNumber\obj\Debug\JustOneMissingNumber.pdb

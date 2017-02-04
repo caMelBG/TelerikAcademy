@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\MatrixShuffle\bin\Debug\MatrixShuffle.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\MatrixShuffle\bin\Debug\MatrixShuffle.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\MatrixShuffle\bin\Debug\MatrixShuffle.pdb
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\MatrixShuffle\obj\Debug\MatrixShuffle.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\MatrixShuffle\obj\Debug\MatrixShuffle.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\MatrixShuffle\obj\Debug\MatrixShuffle.pdb

@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\Parachute\bin\Debug\Parachute.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\Parachute\bin\Debug\Parachute.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\Parachute\bin\Debug\Parachute.pdb
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\Parachute\obj\Debug\Parachute.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\Parachute\obj\Debug\Parachute.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\Parachute\obj\Debug\Parachute.pdb

@@ -1,0 +1,5 @@
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\SemanticHTML\bin\Debug\SemanticHTML.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\SemanticHTML\bin\Debug\SemanticHTML.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\SemanticHTML\bin\Debug\SemanticHTML.pdb
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\SemanticHTML\obj\Debug\SemanticHTML.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\SemanticHTML\obj\Debug\SemanticHTML.pdb

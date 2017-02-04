@@ -1,0 +1,14 @@
+﻿namespace Infestation
+{
+    public class Parasite : Unit
+    {
+        private const int Health = 1;
+        private const int Power = 1;
+        private const int Aggression = 1;
+
+        public Parasite(string id) 
+            : base (id, UnitClassification.Biological, Health, Power, Aggression)
+        {
+        }
+    }
+}

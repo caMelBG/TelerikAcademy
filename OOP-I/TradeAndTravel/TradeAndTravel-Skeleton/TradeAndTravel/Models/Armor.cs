@@ -1,0 +1,23 @@
+﻿using System.Collections.Generic;
+
+namespace TradeAndTravel
+{
+    public class Armor : Item
+    {
+        const int GeneralArmorValue = 5;
+
+        public Armor(string name, Location location = null)
+            : base(name, Armor.GeneralArmorValue, ItemType.Armor, location)
+        {
+        }
+
+        static List<ItemType> GetComposingItems()
+        {
+            return new List<ItemType>() { ItemType.Iron };
+        }
+        public override void UpdateWithInteraction(string interaction)
+        {
+            return;
+        }
+    }
+}

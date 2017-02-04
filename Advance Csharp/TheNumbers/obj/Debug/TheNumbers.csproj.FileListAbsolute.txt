@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\TheNumbers\bin\Debug\TheNumbers.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\TheNumbers\obj\Debug\TheNumbers.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\TheNumbers\bin\Debug\TheNumbers.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\TheNumbers\bin\Debug\TheNumbers.pdb
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\TheNumbers\obj\Debug\TheNumbers.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\TheNumbers\obj\Debug\TheNumbers.pdb

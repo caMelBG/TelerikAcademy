@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\MatrixRotation\bin\Debug\MatrixRotation.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\MatrixRotation\bin\Debug\MatrixRotation.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\MatrixRotation\bin\Debug\MatrixRotation.pdb
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\MatrixRotation\obj\Debug\MatrixRotation.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\MatrixRotation\obj\Debug\MatrixRotation.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\MatrixRotation\obj\Debug\MatrixRotation.pdb

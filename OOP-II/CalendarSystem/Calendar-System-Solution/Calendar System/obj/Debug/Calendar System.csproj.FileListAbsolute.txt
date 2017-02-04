@@ -1,0 +1,13 @@
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Solution\Calendar System\bin\Debug\Calendar System.exe.config
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Solution\Calendar System\bin\Debug\Calendar System.exe
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Solution\Calendar System\bin\Debug\Calendar System.pdb
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Solution\Calendar System\bin\Debug\PowerCollections.dll
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Solution\Calendar System\obj\Debug\Calendar System.csprojResolveAssemblyReference.cache
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Solution\Calendar System\obj\Debug\Calendar System.exe
+C:\Dev\2013\High-Quality Code\2013\Exam\Calendar-System-Solution\Calendar System\obj\Debug\Calendar System.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\20. High-Quality-Code-Exam-May-2013-Calendar-System\Calendar-System-Solution\Calendar System\bin\Debug\Calendar System.exe.config
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\20. High-Quality-Code-Exam-May-2013-Calendar-System\Calendar-System-Solution\Calendar System\obj\Debug\Calendar System.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\20. High-Quality-Code-Exam-May-2013-Calendar-System\Calendar-System-Solution\Calendar System\obj\Debug\Calendar System.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\CalendarSystem\Calendar-System-Solution\Calendar System\bin\Debug\Calendar System.exe.config
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\CalendarSystem\Calendar-System-Solution\Calendar System\obj\Debug\Calendar System.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\CalendarSystem\Calendar-System-Solution\Calendar System\obj\Debug\Calendar System.pdb

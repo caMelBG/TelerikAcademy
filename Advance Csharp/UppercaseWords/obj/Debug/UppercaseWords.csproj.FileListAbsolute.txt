@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\UppercaseWords\bin\Debug\UppercaseWords.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\UppercaseWords\bin\Debug\UppercaseWords.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\UppercaseWords\bin\Debug\UppercaseWords.pdb
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\UppercaseWords\obj\Debug\UppercaseWords.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\UppercaseWords\obj\Debug\UppercaseWords.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\UppercaseWords\obj\Debug\UppercaseWords.pdb

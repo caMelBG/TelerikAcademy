@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\ClearingCommands\bin\Debug\ClearingCommands.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\ClearingCommands\obj\Debug\ClearingCommands.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\ClearingCommands\bin\Debug\ClearingCommands.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\ClearingCommands\bin\Debug\ClearingCommands.pdb
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\ClearingCommands\obj\Debug\ClearingCommands.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\ClearingCommands\obj\Debug\ClearingCommands.pdb

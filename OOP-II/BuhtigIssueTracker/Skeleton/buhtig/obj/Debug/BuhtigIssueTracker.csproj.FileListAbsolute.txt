@@ -1,0 +1,8 @@
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\High-Quality-Code-Retake-Exam-5-June-2015\Skeleton\buhtig\bin\Debug\buhtig.exe.config
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\High-Quality-Code-Retake-Exam-5-June-2015\Skeleton\buhtig\obj\Debug\BuhtigIssueTracker.csprojResolveAssemblyReference.cache
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\High-Quality-Code-Retake-Exam-5-June-2015\Skeleton\buhtig\bin\Debug\buhtig.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\High-Quality-Code-Retake-Exam-5-June-2015\Skeleton\buhtig\bin\Debug\buhtig.pdb
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\High-Quality-Code-Retake-Exam-5-June-2015\Skeleton\buhtig\bin\Debug\PowerCollections.dll
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\High-Quality-Code-Retake-Exam-5-June-2015\Skeleton\buhtig\bin\Debug\PowerCollections.xml
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\High-Quality-Code-Retake-Exam-5-June-2015\Skeleton\buhtig\obj\Debug\buhtig.exe
+C:\Users\caMel.caMel-PC\Desktop\OOP-II\High-Quality-Code-Retake-Exam-5-June-2015\Skeleton\buhtig\obj\Debug\buhtig.pdb

@@ -1,0 +1,22 @@
+﻿using System;
+
+namespace Infestation
+{
+    public abstract class Supplement : ISupplement
+    {
+        public Supplement(int aggressionEffect, int healthEffect, int powerEffect)
+        {
+            this.AggressionEffect = aggressionEffect;
+            this.HealthEffect = healthEffect;
+            this.PowerEffect = powerEffect;
+        }
+
+        public int AggressionEffect { get; set; }
+        public int HealthEffect { get; set; }
+        public int PowerEffect { get; set; }
+
+        public void ReactTo(ISupplement otherSupplement)
+        {
+        }
+    }
+}

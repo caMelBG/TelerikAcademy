@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\VladkosNotebook\bin\Debug\VladkosNotebook.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\VladkosNotebook\bin\Debug\VladkosNotebook.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\VladkosNotebook\bin\Debug\VladkosNotebook.pdb
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\VladkosNotebook\obj\Debug\VladkosNotebook.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\VladkosNotebook\obj\Debug\VladkosNotebook.pdb
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\VladkosNotebook\obj\Debug\VladkosNotebook.csprojResolveAssemblyReference.cache

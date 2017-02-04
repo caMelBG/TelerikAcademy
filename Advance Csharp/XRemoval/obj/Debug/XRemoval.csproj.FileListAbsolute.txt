@@ -1,0 +1,5 @@
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\XRemoval\bin\Debug\XRemoval.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\XRemoval\bin\Debug\XRemoval.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\XRemoval\bin\Debug\XRemoval.pdb
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\XRemoval\obj\Debug\XRemoval.exe
+C:\Users\caMel.caMel-PC\Desktop\Advance.cs\XRemoval\obj\Debug\XRemoval.pdb

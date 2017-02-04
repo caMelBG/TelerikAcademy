@@ -1,0 +1,112 @@
+﻿using FurnitureManufacturer.Interfaces;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace FurnitureManufacturer.Models
+{
+    public class Company : ICompany
+    {
+        private string name;
+        private string registrationNumber;
+        private List<IFurniture> furnitures;
+
+        public Company(string name, string registrationNumber)
+        {
+            this.Name = name;
+            this.RegistrationNumber = registrationNumber;
+            this.furnitures = new List<IFurniture>();
+        }
+
+        public ICollection<IFurniture> Furnitures
+        {
+            get
+            {
+                return this.furnitures;
+            }
+        }
+
+        public string Name
+        {
+            get
+            {
+                return this.name;
+            }
+
+            private set
+            {
+                if (value.Length >= 5 && !String.IsNullOrEmpty(value))
+                {
+                    this.name = value;
+                }
+            }
+        }
+
+        public string RegistrationNumber
+        {
+            get
+            {
+                return this.registrationNumber;
+            }
+
+            private set
+            {
+                if (value.Length == 10 && !String.IsNullOrEmpty(value))
+                {
+                    this.registrationNumber = value;
+                }
+            }
+        }
+
+        public void Add(IFurniture furniture)
+        {
+            this.furnitures.Add(furniture);
+        }
+
+        public void Remove(IFurniture furniture)
+        {
+            this.furnitures.Remove(furniture);
+        }
+
+        public IFurniture Find(string model)
+        {
+            foreach (var furniture in this.furnitures)
+            {
+                if (furniture.Model == model)
+                {
+                    return furniture;
+                }
+            }
+
+            return null;
+        }
+
+        public string Catalog()
+        {
+            if (this.Furnitures.Count == 0)
+            {
+                return string.Format("{0} - {1} - {2} {3}",
+                this.Name,
+                this.RegistrationNumber,
+                "no",
+                "furnitures");
+            }
+            else if (this.Furnitures.Count == 1)
+            {
+                return string.Format("{0} - {1} - {2} {3}",
+                this.Name,
+                this.RegistrationNumber,
+                "1",
+                "furniture");
+            }
+            return string.Format("{0} - {1} - {2} {3}",
+                this.Name,
+                this.RegistrationNumber,
+                this.Furnitures.Count.ToString(),
+                "furniture");
+        }
+    }
+}
+

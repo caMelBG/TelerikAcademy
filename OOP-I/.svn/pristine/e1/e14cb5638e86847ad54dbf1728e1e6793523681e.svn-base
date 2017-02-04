@@ -1,0 +1,32 @@
+﻿using System;
+using FurnitureManufacturer.Interfaces;
+
+namespace FurnitureManufacturer.Models
+{
+    class AdjustableChair : Chair, IAdjustableChair
+    {
+        public AdjustableChair(string model, string materialType, decimal price, decimal height, int numberOfLegs)
+            : base(model, materialType, price, height, numberOfLegs)
+        {
+        }
+
+        public void SetHeight(decimal height)
+        {
+            if (height > 0)
+            {
+                base.Height = height;
+            }
+        }
+
+        public override string Print()
+        {
+            return string.Format("Type: {0}, Model: {1}, Material: {2}, Price: {3}, Height: {4}, Legs: {5}",
+                base.GetType().Name,
+                base.Model,
+                base.Material,
+                base.Price,
+                base.Height,
+                base.NumberOfLegs);
+        }
+    }
+}

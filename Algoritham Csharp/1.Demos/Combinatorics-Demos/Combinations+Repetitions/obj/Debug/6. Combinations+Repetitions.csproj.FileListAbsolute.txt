@@ -1,0 +1,6 @@
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Demos\Combinatorics-Demos\Combinations+Repetitions\bin\Debug\Combinations+Repetitions.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Demos\Combinatorics-Demos\Combinations+Repetitions\bin\Debug\Combinations+Repetitions.pdb
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Demos\Combinatorics-Demos\Combinations+Repetitions\obj\Debug\Combinations+Repetitions.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\Demos\Combinatorics-Demos\Combinations+Repetitions\obj\Debug\Combinations+Repetitions.pdb
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\1.Demos\Combinatorics-Demos\Combinations+Repetitions\obj\Debug\Combinations+Repetitions.exe
+C:\Users\caMel.caMel-PC\Desktop\Algorithams\1.Demos\Combinatorics-Demos\Combinations+Repetitions\obj\Debug\Combinations+Repetitions.pdb

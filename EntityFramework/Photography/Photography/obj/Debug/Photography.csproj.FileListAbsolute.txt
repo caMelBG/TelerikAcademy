@@ -1,0 +1,12 @@
+C:\Users\caMel.caMel-PC\Desktop\Photography\Photography\bin\Debug\Photography.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Photography\Photography\bin\Debug\Photography.exe
+C:\Users\caMel.caMel-PC\Desktop\Photography\Photography\bin\Debug\Photography.pdb
+C:\Users\caMel.caMel-PC\Desktop\Photography\Photography\bin\Debug\EntityFramework.dll
+C:\Users\caMel.caMel-PC\Desktop\Photography\Photography\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caMel.caMel-PC\Desktop\Photography\Photography\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caMel.caMel-PC\Desktop\Photography\Photography\bin\Debug\EntityFramework.xml
+C:\Users\caMel.caMel-PC\Desktop\Photography\Photography\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caMel.caMel-PC\Desktop\Photography\Photography\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caMel.caMel-PC\Desktop\Photography\Photography\obj\Debug\Photography.exe
+C:\Users\caMel.caMel-PC\Desktop\Photography\Photography\obj\Debug\Photography.pdb
+C:\Users\caMel.caMel-PC\Desktop\Photography\Photography\obj\Debug\Photography.csprojResolveAssemblyReference.cache

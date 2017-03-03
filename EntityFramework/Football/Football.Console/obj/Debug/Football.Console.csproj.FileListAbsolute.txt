@@ -1,0 +1,12 @@
+C:\Users\caMel.caMel-PC\Desktop\Football\Football.Console\bin\Debug\Football.Console.exe.config
+C:\Users\caMel.caMel-PC\Desktop\Football\Football.Console\bin\Debug\Football.Console.exe
+C:\Users\caMel.caMel-PC\Desktop\Football\Football.Console\bin\Debug\Football.Console.pdb
+C:\Users\caMel.caMel-PC\Desktop\Football\Football.Console\bin\Debug\EntityFramework.dll
+C:\Users\caMel.caMel-PC\Desktop\Football\Football.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caMel.caMel-PC\Desktop\Football\Football.Console\bin\Debug\EntityFramework.xml
+C:\Users\caMel.caMel-PC\Desktop\Football\Football.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caMel.caMel-PC\Desktop\Football\Football.Console\obj\Debug\Football.Console.exe
+C:\Users\caMel.caMel-PC\Desktop\Football\Football.Console\obj\Debug\Football.Console.pdb
+C:\Users\caMel.caMel-PC\Desktop\Football\Football.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caMel.caMel-PC\Desktop\Football\Football.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caMel.caMel-PC\Desktop\Football\Football.Console\obj\Debug\Football.Console.csprojResolveAssemblyReference.cache

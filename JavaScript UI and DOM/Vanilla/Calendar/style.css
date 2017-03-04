@@ -1,0 +1,16 @@
+﻿td {
+    height: 150px;
+    width: 150px;
+    border: solid black 1px;
+    vertical-align: text-top;
+}
+
+.date-title {
+    background-color: coral;
+    width: 150px;
+    text-align: center;
+}
+
+#empty-table-data {
+    border: 0;    
+}

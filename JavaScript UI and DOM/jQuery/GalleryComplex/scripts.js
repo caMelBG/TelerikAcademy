@@ -62,7 +62,7 @@ $.fn.gallery = function (imagesPerRow) {
 
     currSelectedImage.on("click", function () {
         selected.hide();
-		galleryList.removeClass("blurred");
+        galleryList.removeClass("blurred");
         $(".disabled-background").remove();
     });
 

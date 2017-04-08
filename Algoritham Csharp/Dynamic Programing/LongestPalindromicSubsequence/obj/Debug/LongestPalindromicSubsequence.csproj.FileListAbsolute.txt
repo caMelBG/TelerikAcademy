@@ -1,0 +1,6 @@
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestPalindromicSubsequence\bin\Debug\LongestPalindromicSubsequence.exe.config
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestPalindromicSubsequence\bin\Debug\LongestPalindromicSubsequence.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestPalindromicSubsequence\bin\Debug\LongestPalindromicSubsequence.pdb
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestPalindromicSubsequence\obj\Debug\LongestPalindromicSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestPalindromicSubsequence\obj\Debug\LongestPalindromicSubsequence.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestPalindromicSubsequence\obj\Debug\LongestPalindromicSubsequence.pdb

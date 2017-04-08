@@ -1,0 +1,6 @@
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\Bridges\bin\Debug\Bridges.exe.config
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\Bridges\bin\Debug\Bridges.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\Bridges\bin\Debug\Bridges.pdb
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\Bridges\obj\Debug\Bridges.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\Bridges\obj\Debug\Bridges.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\Bridges\obj\Debug\Bridges.pdb

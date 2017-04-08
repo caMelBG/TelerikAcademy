@@ -1,0 +1,5 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\TowerOfHanoi\obj\Debug\TowerOfHanoi.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb

@@ -1,0 +1,5 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\Knapsack\bin\Debug\Knapsack.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\Knapsack\bin\Debug\Knapsack.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\Knapsack\obj\Debug\Knapsack.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\Knapsack\obj\Debug\Knapsack.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\Knapsack\obj\Debug\Knapsack.csprojResolveAssemblyReference.cache

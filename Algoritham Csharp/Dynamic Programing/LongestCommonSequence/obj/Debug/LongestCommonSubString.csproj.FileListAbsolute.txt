@@ -1,0 +1,6 @@
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestCommonSequence\bin\Debug\LongestCommonSequence.exe.config
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestCommonSequence\obj\Debug\LongestCommonSequence.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestCommonSequence\obj\Debug\LongestCommonSequence.pdb
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestCommonSequence\bin\Debug\LongestCommonSequence.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestCommonSequence\bin\Debug\LongestCommonSequence.pdb
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestCommonSequence\obj\Debug\LongestCommonSubstring.csprojResolveAssemblyReference.cache

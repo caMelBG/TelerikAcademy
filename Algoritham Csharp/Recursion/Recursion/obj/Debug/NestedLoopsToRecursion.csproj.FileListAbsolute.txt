@@ -1,9 +1,0 @@
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\Recursion\bin\Debug\Recursion.exe.config
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\Recursion\bin\Debug\Recursion.exe
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\Recursion\bin\Debug\Recursion.pdb
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\Recursion\obj\Debug\NestedLoopsToRecursion.csprojResolveAssemblyReference.cache
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\Recursion\obj\Debug\Recursion.exe
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\Recursion\obj\Debug\Recursion.pdb
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Recursion\Recursion\bin\Debug\Recursion.exe.config
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Recursion\Recursion\obj\Debug\Recursion.exe
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Recursion\Recursion\obj\Debug\Recursion.pdb

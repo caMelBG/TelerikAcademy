@@ -1,0 +1,5 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\RatInAMAze\bin\Debug\RatInAMAze.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\RatInAMAze\bin\Debug\RatInAMAze.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\RatInAMAze\obj\Debug\RatInAMAze.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\RatInAMAze\obj\Debug\RatInAMAze.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\RatInAMAze\obj\Debug\RatInAMAze.pdb

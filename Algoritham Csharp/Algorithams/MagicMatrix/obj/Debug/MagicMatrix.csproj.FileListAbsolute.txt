@@ -1,6 +1,0 @@
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\MagicMatrix\bin\Debug\MagicMatrix.exe.config
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\MagicMatrix\bin\Debug\MagicMatrix.exe
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\MagicMatrix\bin\Debug\MagicMatrix.pdb
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\MagicMatrix\obj\Debug\MagicMatrix.exe
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\MagicMatrix\obj\Debug\MagicMatrix.pdb
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\MagicMatrix\obj\Debug\MagicMatrix.csprojResolveAssemblyReference.cache

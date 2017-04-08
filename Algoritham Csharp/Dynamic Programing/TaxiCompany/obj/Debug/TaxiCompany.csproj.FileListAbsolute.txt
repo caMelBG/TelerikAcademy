@@ -1,0 +1,6 @@
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\TaxiCompany\bin\Debug\TaxiCompany.exe.config
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\TaxiCompany\bin\Debug\TaxiCompany.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\TaxiCompany\bin\Debug\TaxiCompany.pdb
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\TaxiCompany\obj\Debug\TaxiCompany.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\TaxiCompany\obj\Debug\TaxiCompany.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\TaxiCompany\obj\Debug\TaxiCompany.pdb

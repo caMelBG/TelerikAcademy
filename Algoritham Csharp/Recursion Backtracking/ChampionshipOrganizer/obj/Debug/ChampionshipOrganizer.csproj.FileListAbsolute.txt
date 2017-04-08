@@ -1,0 +1,5 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\ChampionshipOrganizer\bin\Debug\ChampionshipOrganizer.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\ChampionshipOrganizer\bin\Debug\ChampionshipOrganizer.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\ChampionshipOrganizer\obj\Debug\ChampionshipOrganizer.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\ChampionshipOrganizer\obj\Debug\ChampionshipOrganizer.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\ChampionshipOrganizer\obj\Debug\ChampionshipOrganizer.pdb

@@ -1,0 +1,4 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\ConnectedAreasInMatrix\bin\Debug\ConnectedAreasInMatrix.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\ConnectedAreasInMatrix\bin\Debug\ConnectedAreasInMatrix.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\ConnectedAreasInMatrix\obj\Debug\ConnectedAreasInMatrix.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\ConnectedAreasInMatrix\obj\Debug\ConnectedAreasInMatrix.pdb

@@ -1,0 +1,4 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\Brackets\bin\Debug\Brackets.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\Brackets\bin\Debug\Brackets.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\Brackets\obj\Debug\Brackets.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\Brackets\obj\Debug\Brackets.pdb

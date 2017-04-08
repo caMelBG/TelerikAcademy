@@ -1,0 +1,6 @@
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\KnapsackRecursive\bin\Debug\KnapsackRecursive.exe.config
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\KnapsackRecursive\bin\Debug\KnapsackRecursive.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\KnapsackRecursive\bin\Debug\KnapsackRecursive.pdb
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\KnapsackRecursive\obj\Debug\KnapsackRecursive.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\KnapsackRecursive\obj\Debug\KnapsackRecursive.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\KnapsackRecursive\obj\Debug\KnapsackRecursive.pdb

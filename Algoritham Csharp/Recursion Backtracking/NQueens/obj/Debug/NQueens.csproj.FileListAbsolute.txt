@@ -1,0 +1,5 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\NQueens\bin\Debug\NQueens.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\NQueens\bin\Debug\NQueens.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\NQueens\obj\Debug\NQueens.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\NQueens\obj\Debug\NQueens.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\NQueens\obj\Debug\NQueens.csprojResolveAssemblyReference.cache

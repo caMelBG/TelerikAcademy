@@ -1,3 +1,0 @@
-People: Moni, Pesho, Gosho, Kiro
-Connections: Pesho - Gosho, Moni - Kiro
-Start: Kiro, Pesho, Gosho, Moni

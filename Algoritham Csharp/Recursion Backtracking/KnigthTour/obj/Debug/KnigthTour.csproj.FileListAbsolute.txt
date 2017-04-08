@@ -1,0 +1,5 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\KnigthTour\bin\Debug\KnigthTour.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\KnigthTour\bin\Debug\KnigthTour.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\KnigthTour\obj\Debug\KnigthTour.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\KnigthTour\obj\Debug\KnigthTour.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\KnigthTour\obj\Debug\KnigthTour.pdb

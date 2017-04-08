@@ -1,0 +1,6 @@
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\CoinChangingMinimumNumberOfCoins\bin\Debug\CoinChangingMinimumNumberOfCoins.exe.config
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\CoinChangingMinimumNumberOfCoins\bin\Debug\CoinChangingMinimumNumberOfCoins.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\CoinChangingMinimumNumberOfCoins\bin\Debug\CoinChangingMinimumNumberOfCoins.pdb
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\CoinChangingMinimumNumberOfCoins\obj\Debug\CoinChangingMinimumNumberOfCoins.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\CoinChangingMinimumNumberOfCoins\obj\Debug\CoinChangingMinimumNumberOfCoins.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\CoinChangingMinimumNumberOfCoins\obj\Debug\CoinChangingMinimumNumberOfCoins.pdb

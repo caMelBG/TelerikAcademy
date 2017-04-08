@@ -1,4 +1,0 @@
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\1.Demos\Combinatorics-Demos\Variations+Repetitions\bin\Debug\Variations+Repetitions.exe
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\1.Demos\Combinatorics-Demos\Variations+Repetitions\bin\Debug\Variations+Repetitions.pdb
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\1.Demos\Combinatorics-Demos\Variations+Repetitions\obj\Debug\Variations+Repetitions.exe
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\1.Demos\Combinatorics-Demos\Variations+Repetitions\obj\Debug\Variations+Repetitions.pdb

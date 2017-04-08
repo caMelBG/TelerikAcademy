@@ -1,0 +1,5 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\SearchWordInMatrix\bin\Debug\SearchWordInMatrix.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\SearchWordInMatrix\bin\Debug\SearchWordInMatrix.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\SearchWordInMatrix\obj\Debug\SearchWordInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\SearchWordInMatrix\obj\Debug\SearchWordInMatrix.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\SearchWordInMatrix\obj\Debug\SearchWordInMatrix.pdb

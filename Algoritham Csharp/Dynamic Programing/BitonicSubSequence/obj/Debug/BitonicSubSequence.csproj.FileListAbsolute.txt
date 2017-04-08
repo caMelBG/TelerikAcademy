@@ -1,0 +1,6 @@
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\BitonicSubSequence\bin\Debug\BitonicSubSequence.exe.config
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\BitonicSubSequence\bin\Debug\BitonicSubSequence.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\BitonicSubSequence\bin\Debug\BitonicSubSequence.pdb
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\BitonicSubSequence\obj\Debug\BitonicSubSequence.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\BitonicSubSequence\obj\Debug\BitonicSubSequence.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\BitonicSubSequence\obj\Debug\BitonicSubSequence.pdb

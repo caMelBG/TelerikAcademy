@@ -1,5 +1,0 @@
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\1.Demos\Combinatorics-Demos\Variations-No-Repetitions\bin\Debug\Variations-No-Repetitions.exe
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\1.Demos\Combinatorics-Demos\Variations-No-Repetitions\bin\Debug\Variations-No-Repetitions.pdb
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\1.Demos\Combinatorics-Demos\Variations-No-Repetitions\obj\Debug\2. Variations-No-Repetitions.csprojResolveAssemblyReference.cache
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\1.Demos\Combinatorics-Demos\Variations-No-Repetitions\obj\Debug\Variations-No-Repetitions.exe
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\1.Demos\Combinatorics-Demos\Variations-No-Repetitions\obj\Debug\Variations-No-Repetitions.pdb

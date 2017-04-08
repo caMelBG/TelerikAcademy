@@ -1,0 +1,6 @@
+C:\Users\Asus ZenBook\Desktop\Sorting Searching String Algo\Algorithms\Strings\bin\Debug\Strings.exe.config
+C:\Users\Asus ZenBook\Desktop\Sorting Searching String Algo\Algorithms\Strings\bin\Debug\Strings.exe
+C:\Users\Asus ZenBook\Desktop\Sorting Searching String Algo\Algorithms\Strings\bin\Debug\Strings.pdb
+C:\Users\Asus ZenBook\Desktop\Sorting Searching String Algo\Algorithms\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Sorting Searching String Algo\Algorithms\Strings\obj\Debug\Strings.exe
+C:\Users\Asus ZenBook\Desktop\Sorting Searching String Algo\Algorithms\Strings\obj\Debug\Strings.pdb

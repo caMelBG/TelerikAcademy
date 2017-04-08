@@ -1,0 +1,5 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\ShoterstPath\bin\Debug\ShoterstPath.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\ShoterstPath\bin\Debug\ShoterstPath.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\ShoterstPath\obj\Debug\ShoterstPath.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\ShoterstPath\obj\Debug\ShoterstPath.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\ShoterstPath\obj\Debug\ShoterstPath.pdb

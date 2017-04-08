@@ -1,0 +1,4 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\NQueensBetterSolution\bin\Debug\NQueensBetterSolution.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\NQueensBetterSolution\bin\Debug\NQueensBetterSolution.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\NQueensBetterSolution\obj\Debug\NQueensBetterSolution.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\NQueensBetterSolution\obj\Debug\NQueensBetterSolution.pdb

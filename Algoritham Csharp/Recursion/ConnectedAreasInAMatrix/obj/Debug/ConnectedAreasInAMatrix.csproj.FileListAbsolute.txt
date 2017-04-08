@@ -1,9 +1,0 @@
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\ConnectedAreasInAMatrix\bin\Debug\ConnectedAreasInAMatrix.exe.config
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\ConnectedAreasInAMatrix\bin\Debug\ConnectedAreasInAMatrix.exe
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\ConnectedAreasInAMatrix\bin\Debug\ConnectedAreasInAMatrix.pdb
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\ConnectedAreasInAMatrix\obj\Debug\ConnectedAreasInAMatrix.csprojResolveAssemblyReference.cache
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\ConnectedAreasInAMatrix\obj\Debug\ConnectedAreasInAMatrix.exe
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\ConnectedAreasInAMatrix\obj\Debug\ConnectedAreasInAMatrix.pdb
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Recursion\ConnectedAreasInAMatrix\bin\Debug\ConnectedAreasInAMatrix.exe.config
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Recursion\ConnectedAreasInAMatrix\obj\Debug\ConnectedAreasInAMatrix.exe
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Recursion\ConnectedAreasInAMatrix\obj\Debug\ConnectedAreasInAMatrix.pdb

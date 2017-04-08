@@ -1,0 +1,4 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\Bridges\bin\Debug\Bridges.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\Bridges\bin\Debug\Bridges.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\Bridges\obj\Debug\Bridges.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\Bridges\obj\Debug\Bridges.pdb

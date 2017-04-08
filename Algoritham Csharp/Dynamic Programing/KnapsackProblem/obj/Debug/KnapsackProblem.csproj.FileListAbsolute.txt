@@ -1,0 +1,6 @@
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\KnapsackProblem\bin\Debug\KnapsackProblem.exe.config
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\KnapsackProblem\bin\Debug\KnapsackProblem.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\KnapsackProblem\bin\Debug\KnapsackProblem.pdb
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\KnapsackProblem\obj\Debug\KnapsackProblem.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\KnapsackProblem\obj\Debug\KnapsackProblem.pdb
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\KnapsackProblem\obj\Debug\KnapsackProblem.csprojResolveAssemblyReference.cache

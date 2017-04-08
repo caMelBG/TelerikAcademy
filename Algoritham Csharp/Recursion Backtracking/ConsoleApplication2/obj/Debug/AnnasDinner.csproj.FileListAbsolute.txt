@@ -1,0 +1,4 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

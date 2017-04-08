@@ -1,0 +1,4 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\TheWordBreak\bin\Debug\TheWordBreak.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\TheWordBreak\bin\Debug\TheWordBreak.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\TheWordBreak\obj\Debug\TheWordBreak.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\TheWordBreak\obj\Debug\TheWordBreak.pdb

@@ -1,0 +1,5 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\SubsetsWithSumEqualToN\bin\Debug\SubsetsWithSumEqualToN.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\SubsetsWithSumEqualToN\bin\Debug\SubsetsWithSumEqualToN.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\SubsetsWithSumEqualToN\obj\Debug\SubsetsWithSumEqualToN.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\SubsetsWithSumEqualToN\obj\Debug\SubsetsWithSumEqualToN.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\SubsetsWithSumEqualToN\obj\Debug\SubsetsWithSumEqualToN.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\SubsetSumProblem\bin\Debug\SubsetSumProblem.exe.config
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\SubsetSumProblem\bin\Debug\SubsetSumProblem.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\SubsetSumProblem\bin\Debug\SubsetSumProblem.pdb
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\SubsetSumProblem\obj\Debug\SubsetSumProblem.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\SubsetSumProblem\obj\Debug\SubsetSumProblem.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\SubsetSumProblem\obj\Debug\SubsetSumProblem.pdb

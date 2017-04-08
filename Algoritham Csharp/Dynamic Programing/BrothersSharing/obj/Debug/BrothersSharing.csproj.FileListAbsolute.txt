@@ -1,0 +1,6 @@
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\BrothersSharing\bin\Debug\BrothersSharing.exe.config
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\BrothersSharing\bin\Debug\BrothersSharing.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\BrothersSharing\bin\Debug\BrothersSharing.pdb
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\BrothersSharing\obj\Debug\BrothersSharing.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\BrothersSharing\obj\Debug\BrothersSharing.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\BrothersSharing\obj\Debug\BrothersSharing.pdb

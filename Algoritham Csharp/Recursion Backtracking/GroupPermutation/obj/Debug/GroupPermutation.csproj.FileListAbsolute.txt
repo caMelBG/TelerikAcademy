@@ -1,0 +1,4 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\GroupPermutation\bin\Debug\GroupPermutation.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\GroupPermutation\bin\Debug\GroupPermutation.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\GroupPermutation\obj\Debug\GroupPermutation.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\GroupPermutation\obj\Debug\GroupPermutation.pdb

@@ -1,0 +1,4 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\AllNLengthStringsFromGivenStringOfLengthK\bin\Debug\AllNLengthStringsFromGivenStringOfLengthK.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\AllNLengthStringsFromGivenStringOfLengthK\bin\Debug\AllNLengthStringsFromGivenStringOfLengthK.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\AllNLengthStringsFromGivenStringOfLengthK\obj\Debug\AllNLengthStringsFromGivenStringOfLengthK.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\AllNLengthStringsFromGivenStringOfLengthK\obj\Debug\AllNLengthStringsFromGivenStringOfLengthK.pdb

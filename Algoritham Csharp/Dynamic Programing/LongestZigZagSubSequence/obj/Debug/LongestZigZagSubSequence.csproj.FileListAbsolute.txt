@@ -1,0 +1,6 @@
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestZigZagSubSequence\bin\Debug\LongestZigZagSubSequence.exe.config
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestZigZagSubSequence\bin\Debug\LongestZigZagSubSequence.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestZigZagSubSequence\bin\Debug\LongestZigZagSubSequence.pdb
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestZigZagSubSequence\obj\Debug\LongestZigZagSubSequence.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestZigZagSubSequence\obj\Debug\LongestZigZagSubSequence.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestZigZagSubSequence\obj\Debug\LongestZigZagSubSequence.pdb

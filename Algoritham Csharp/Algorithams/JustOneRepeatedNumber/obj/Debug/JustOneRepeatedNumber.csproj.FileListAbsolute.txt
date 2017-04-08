@@ -1,5 +1,0 @@
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\JustOneRepeatedNumber\bin\Debug\JustOneRepeatedNumber.exe.config
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\JustOneRepeatedNumber\bin\Debug\JustOneRepeatedNumber.exe
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\JustOneRepeatedNumber\bin\Debug\JustOneRepeatedNumber.pdb
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\JustOneRepeatedNumber\obj\Debug\JustOneRepeatedNumber.exe
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Algorithams\JustOneRepeatedNumber\obj\Debug\JustOneRepeatedNumber.pdb

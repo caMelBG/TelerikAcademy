@@ -1,3 +1,0 @@
-People: Pesho, Maria, Ivan, Gosho
-Connections: Pesho - Gosho, Maria - Ivan, Ivan - Gosho, Pesho - Maria
-Start: Pesho

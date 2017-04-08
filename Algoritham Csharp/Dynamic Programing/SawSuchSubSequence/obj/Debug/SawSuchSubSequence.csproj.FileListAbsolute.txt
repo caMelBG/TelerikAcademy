@@ -1,0 +1,6 @@
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\SawSuchSubSequence\bin\Debug\SawSuchSubSequence.exe.config
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\SawSuchSubSequence\bin\Debug\SawSuchSubSequence.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\SawSuchSubSequence\bin\Debug\SawSuchSubSequence.pdb
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\SawSuchSubSequence\obj\Debug\SawSuchSubSequence.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\SawSuchSubSequence\obj\Debug\SawSuchSubSequence.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\SawSuchSubSequence\obj\Debug\SawSuchSubSequence.pdb

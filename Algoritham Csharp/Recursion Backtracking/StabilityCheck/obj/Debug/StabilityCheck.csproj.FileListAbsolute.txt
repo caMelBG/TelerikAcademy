@@ -1,0 +1,4 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\StabilityCheck\bin\Debug\StabilityCheck.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\StabilityCheck\bin\Debug\StabilityCheck.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\StabilityCheck\obj\Debug\StabilityCheck.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\StabilityCheck\obj\Debug\StabilityCheck.pdb

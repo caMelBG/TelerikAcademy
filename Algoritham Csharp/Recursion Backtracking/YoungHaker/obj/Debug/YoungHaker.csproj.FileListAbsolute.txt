@@ -1,0 +1,4 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\YoungHaker\bin\Debug\YoungHaker.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\YoungHaker\bin\Debug\YoungHaker.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\YoungHaker\obj\Debug\YoungHaker.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\YoungHaker\obj\Debug\YoungHaker.pdb

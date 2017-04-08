@@ -1,0 +1,5 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\GirlsGoneWild\bin\Debug\GirlsGoneWild.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\GirlsGoneWild\bin\Debug\GirlsGoneWild.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\GirlsGoneWild\obj\Debug\GirlsGoneWild.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\GirlsGoneWild\obj\Debug\GirlsGoneWild.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\GirlsGoneWild\obj\Debug\GirlsGoneWild.pdb

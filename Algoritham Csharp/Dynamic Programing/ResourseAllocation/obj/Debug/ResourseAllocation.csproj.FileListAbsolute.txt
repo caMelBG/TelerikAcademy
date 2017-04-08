@@ -1,0 +1,6 @@
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\ResourseAllocation\bin\Debug\ResourseAllocation.exe.config
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\ResourseAllocation\bin\Debug\ResourseAllocation.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\ResourseAllocation\bin\Debug\ResourseAllocation.pdb
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\ResourseAllocation\obj\Debug\ResourseAllocation.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\ResourseAllocation\obj\Debug\ResourseAllocation.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\ResourseAllocation\obj\Debug\ResourseAllocation.pdb

@@ -1,0 +1,5 @@
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\CycleShiftedArray\bin\Debug\CycleShiftedArray.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\CycleShiftedArray\bin\Debug\CycleShiftedArray.pdb
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\CycleShiftedArray\obj\Debug\CycleShiftedArray.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\CycleShiftedArray\obj\Debug\CycleShiftedArray.exe
+C:\Users\Asus ZenBook\Desktop\Recursion BackTracking Combinatoral\Recursion\CycleShiftedArray\obj\Debug\CycleShiftedArray.pdb

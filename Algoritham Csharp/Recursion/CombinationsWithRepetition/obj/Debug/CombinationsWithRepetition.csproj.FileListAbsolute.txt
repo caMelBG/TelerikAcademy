@@ -1,9 +1,0 @@
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.exe.config
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.exe
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.pdb
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.exe
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.pdb
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Homework\Recursion\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.csprojResolveAssemblyReference.cache
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Recursion\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.exe.config
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Recursion\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.exe
-C:\Users\caMel.caMel-PC\Desktop\Algorithams\Recursion\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.pdb

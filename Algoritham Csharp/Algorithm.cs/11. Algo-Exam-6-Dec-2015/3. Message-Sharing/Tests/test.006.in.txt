@@ -1,3 +1,0 @@
-People: Moni, Pesho, Gosho, Kiro, Maria, Sasho, Didi, Todor
-Connections: Pesho - Gosho, Moni - Maria, Moni - Maria, Sasho - Didi, Todor - Moni, Kiro - Gosho, Didi - Kiro, Maria - Todor
-Start: Pesho, Didi, Kiro, Gosho

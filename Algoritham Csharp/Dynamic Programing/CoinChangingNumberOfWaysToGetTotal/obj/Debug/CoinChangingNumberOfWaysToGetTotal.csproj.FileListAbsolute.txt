@@ -1,0 +1,6 @@
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\CoinChangingNumberOfWaysToGetTotal\bin\Debug\CoinChangingNumberOfWaysToGetTotal.exe.config
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\CoinChangingNumberOfWaysToGetTotal\bin\Debug\CoinChangingNumberOfWaysToGetTotal.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\CoinChangingNumberOfWaysToGetTotal\bin\Debug\CoinChangingNumberOfWaysToGetTotal.pdb
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\CoinChangingNumberOfWaysToGetTotal\obj\Debug\CoinChangingNumberOfWaysToGetTotal.csprojResolveAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\CoinChangingNumberOfWaysToGetTotal\obj\Debug\CoinChangingNumberOfWaysToGetTotal.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\CoinChangingNumberOfWaysToGetTotal\obj\Debug\CoinChangingNumberOfWaysToGetTotal.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.exe.config
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.pdb
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.exe
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.pdb
+C:\Users\Asus ZenBook\Desktop\Dynamic Programing\DynamicProgramming\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.csprojResolveAssemblyReference.cache
